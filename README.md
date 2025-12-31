@@ -6,7 +6,7 @@ This repository contains experimental implementations and visual analyses of **S
 
 The repository includes two main Jupyter notebooks
 
-- `SVM_Experiments.ipynb`  
+- `svm_linear_and_kernel_analysis.ipynb`  
   Experiments using scikit-learn SVC:
   - Understaning of Soft-margin SVM Effect of regularization parameter C.
   - Kernel trick demonstration on circular dataset (linear vs. RBF kernel)
